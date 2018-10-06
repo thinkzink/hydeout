@@ -7,7 +7,7 @@ title:            Sydney Zink
 tagline:          'A Jekyll theme'
 description:      'Researching in the <a href="https://cs.brown.edu/people/epavlick/students.html" target="_blank">Lunar Lab</a> under <a href="https://cs.brown.edu/people/epavlick/index.html" target="_blank">Ellie Pavlick</a> at Brown University.'
 url:              https://thinkzink.github.io
-baseurl:          'https://thinkzink.github.io/hydeout/'
+baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
