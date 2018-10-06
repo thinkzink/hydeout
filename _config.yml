@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            Sydney Zink
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
-baseurl:          '/hydeout'
+description:      'Researching in the <a href="https://cs.brown.edu/people/epavlick/students.html" target="_blank">Lunar Lab</a> under <a href="https://cs.brown.edu/people/epavlick/index.html" target="_blank">Ellie Pavlick</a> at Brown University.'
+url:              https://thinkzink.github.io
+baseurl:          'https://thinkzink.github.io/hydeout/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
